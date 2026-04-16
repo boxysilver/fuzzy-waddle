@@ -1,2 +1,2 @@
 # fuzzy-waddle
-lauzhack workshop
+EPFL lauzhack workshop
